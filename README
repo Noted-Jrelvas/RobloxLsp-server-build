@@ -1,0 +1,3 @@
+stupid little program for effortlessly generating a RobloxLsp server binary.
+
+Most code was directly ripped from https://github.com/LuaLS/lua-language-server
