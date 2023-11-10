@@ -1,0 +1,15 @@
+[submodule "3rd/bee.lua"]
+	path = 3rd/bee.lua
+	url = https://github.com/actboy168/bee.lua.git
+[submodule "3rd/luamake"]
+	path = 3rd/luamake
+	url = https://github.com/actboy168/luamake.git
+[submodule "3rd/EmmyLuaCodeStyle"]
+	path = 3rd/EmmyLuaCodeStyle
+	url = https://github.com/CppCXY/EmmyLuaCodeStyle.git
+[submodule "3rd/lpeglabel"]
+	path = 3rd/lpeglabel
+	url = https://github.com/sqmedeiros/lpeglabel.git
+[submodule "3rd/RobloxLsp"]
+	path = 3rd/RobloxLsp
+	url = https://github.com/NightrainsRbx/RobloxLsp.git
